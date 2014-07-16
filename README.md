@@ -20,7 +20,7 @@ Run the server:
 $ ruby server.rb
 ```
 
-Visit http://localhost:4567 to see the sample chart.
+Visit [http://localhost:4567](http://localhost:4567) to see the sample chart.
 
 ## Usage
 
