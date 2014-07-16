@@ -1,0 +1,10 @@
+<script src="//www.google.com/jsapi"></script>
+<script src="chartkick.js"></script>
+
+<%=
+  
+data = @data  
+  
+timeline data.map {|d| [d[:name], d[:start], d[:end]]}
+  
+%>
