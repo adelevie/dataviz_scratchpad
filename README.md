@@ -87,7 +87,7 @@ Consult the [Chartkick docs](http://chartkick.com/) to learn how to make all sor
 
 ### Sandbox
 
-Need to understand your data a little better? Run `$ ruby sandbox.rb` to open a Pry repl with your data alreadt loaded.
+Need to understand your data a little better? Run `$ ruby sandbox.rb` to open a [Pry](https://github.com/pry/pry) repl with your data already loaded.
 
 ```ruby
 ➜  dataviz_scratchpad  ruby sandbox.rb 
