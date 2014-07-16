@@ -4,7 +4,7 @@ Zero to charts in about a minute.
 
 ## Benefits
 
-Use Ruby to manipulate and visualize.
+Use Ruby to manipulate and visualize data.
 
 ## Installation
 
